@@ -1,2 +1,2 @@
  
-This is my About Me Page
+This is Jovie's About Me Page
