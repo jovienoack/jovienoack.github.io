@@ -17,6 +17,8 @@
 @media (max-width:767px) {
     .Back-clean h2 {
         margin-bottom: 25px;
+        margin-left: 10px;
+        margin-right: 10px;
         padding-top: 25px;
         font-size: 24px;
     }
