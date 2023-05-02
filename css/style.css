@@ -1,0 +1,19 @@
+
+html {
+  background-color: light-pink; 
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
